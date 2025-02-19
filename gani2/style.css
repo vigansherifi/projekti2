@@ -8,3 +8,23 @@
     color: black;
     
 }
+
+.leftnav1{
+display: flex;
+}
+.leftnav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 11em;
+}
+
+#profile-pic{
+    height: 60px;
+    width: 90px;
+    border-radius: 50px;
+}
+.divi-ipare{
+    background-color: wheat
+}
